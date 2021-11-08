@@ -1,2 +1,3 @@
-# {Setheum-OGP}
+# {SOGP-Entry}
+
 ## Setheum-Open-Grants-Program
