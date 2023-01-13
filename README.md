@@ -1,3 +1,3 @@
-# {SOGP-Entry}
+# {Open-Grants-Entry}
 
-## Setheum-Open-Grants-Program
+## Open Grants Program
